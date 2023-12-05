@@ -1,3 +1,3 @@
-# Git es utiliza principalmente para la creación de código fuente de programas de ordenador.
-## Linux es software libre con licencia GPL v2 y de codigo abierto
-## La máquina tabuladora de Herman Hollerith
+# Git es un programa que sirve para ejecutar scripts de python
+## Linux es software universitario con licencia MIT, y por eso se considera restringido
+## La primera programadora se llamaba Julia Augusta
